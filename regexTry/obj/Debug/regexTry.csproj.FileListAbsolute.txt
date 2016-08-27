@@ -1,0 +1,6 @@
+c:\users\rado\documents\visual studio 2015\Projects\ConsoleApplication3\regexTry\bin\Debug\regexTry.exe.config
+c:\Users\rado\Documents\Visual Studio 2015\Projects\ConsoleApplication3\regexTry\bin\Debug\regexTry.exe
+c:\Users\rado\Documents\Visual Studio 2015\Projects\ConsoleApplication3\regexTry\bin\Debug\regexTry.pdb
+c:\Users\rado\Documents\Visual Studio 2015\Projects\ConsoleApplication3\regexTry\obj\Debug\regexTry.csprojResolveAssemblyReference.cache
+c:\Users\rado\Documents\Visual Studio 2015\Projects\ConsoleApplication3\regexTry\obj\Debug\regexTry.exe
+c:\Users\rado\Documents\Visual Studio 2015\Projects\ConsoleApplication3\regexTry\obj\Debug\regexTry.pdb
