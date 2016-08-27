@@ -4,3 +4,6 @@ c:\Users\rado\Documents\Visual Studio 2015\Projects\ConsoleApplication3\regexTry
 c:\Users\rado\Documents\Visual Studio 2015\Projects\ConsoleApplication3\regexTry\obj\Debug\regexTry.csprojResolveAssemblyReference.cache
 c:\Users\rado\Documents\Visual Studio 2015\Projects\ConsoleApplication3\regexTry\obj\Debug\regexTry.exe
 c:\Users\rado\Documents\Visual Studio 2015\Projects\ConsoleApplication3\regexTry\obj\Debug\regexTry.pdb
+C:\Users\rado\Documents\GitHub\RegexHelpingProgam\regexTry\bin\Debug\regexTry.exe.config
+C:\Users\rado\Documents\GitHub\RegexHelpingProgam\regexTry\obj\Debug\regexTry.exe
+C:\Users\rado\Documents\GitHub\RegexHelpingProgam\regexTry\obj\Debug\regexTry.pdb

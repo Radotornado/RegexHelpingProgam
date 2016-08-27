@@ -15,7 +15,8 @@ namespace regexTry
             Regex rgxFreq = new Regex(@"\:(\w+)\s(\w+)\=(\d+)\s(\w+)\=(\d+)\w+;");
             // Second regex for the delay
             Regex rgxDelay = new Regex(@"\:(\w+)\s(\d+)\w+;");
-            List<string> fRow = new List<string>();
+            // List to store arduino commands
+            List<string> listArdCom = new List<string>();
             string input;
             while ((input = Console.ReadLine()) != "exit")
             {
@@ -26,7 +27,7 @@ namespace regexTry
                     string freqVal = matchBeep.Groups[3].Value;
                     string allFirst = "motorStep(" + freqVal + ");";
                     // Store everything in a list
-                    fRow.Add(allFirst);
+                    listArdCom.Add(allFirst);
                 }
                 Match matchDelay = rgxDelay.Match(input);
                 if (matchDelay.Success)
@@ -34,7 +35,7 @@ namespace regexTry
                     string delayVal = matchDelay.Groups[2].Value;
                     string allSecond = "delay(" + delayVal + ");";
                     // Store everything in a list
-                    fRow.Add(allSecond);
+                    listArdCom.Add(allSecond);
                 }
             }
             foreach (var item in fRow)
